@@ -27,7 +27,7 @@ Display the image until the loop gets over.
 ### Step 5:
 Rotate the image using cv2.rotate(smaller_frame,cv2.cv2.ROTATE_180).
 
-Developed by: P.Sarveshvaran
+Developed by: P.Sarveshvaran;
 Register number: 212221230090
 ## Program:
 ## i) Write the frame as JPG file
